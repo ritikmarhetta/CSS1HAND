@@ -1,0 +1,56 @@
+h1
+{
+    color: forestgreen;
+}
+h3
+{
+    font-style: italic;
+    color: gold;
+}
+.container
+{
+    color: darkblue;
+    line-height: 290%;
+}
+h2
+{
+    color: darkgreen;
+
+}
+.container2
+{
+    color: darkblue;
+    
+    letter-spacing: .60ch;
+}
+.container3
+{  
+    color: darkgreen;
+    
+}
+.d1
+{
+    text-decoration: line-through;
+}
+.d2
+{
+    background-color: chartreuse;
+}
+.d3
+{
+  text-decoration: underline;
+  font-style: italic;
+}
+.d4
+{
+    background-color: darkorange;
+}
+
+.d5
+{  line-height: 8ch;
+    text-decoration-line:none;
+    background-color: rgb(20, 19, 19);
+    color: chartreuse;
+    font-size: 200%;
+    font-style: italic;
+}
